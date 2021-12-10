@@ -10,6 +10,9 @@
     "type": "git",
     "url": "git+https://github.com/spidermanja/demo-packaging.git"
   },
+  "publishConfig": {
+    "@spidermanja:registry": "https://npm.pkg.github.com"
+  },
   "author": "spidermanja <38@tg.com>",
   "license": "MIT",
   "bugs": {
