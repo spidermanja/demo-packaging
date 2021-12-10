@@ -1,0 +1,19 @@
+{
+  "name": "demo-packaging",
+  "version": "1.0.0",
+  "description": "Demo",
+  "main": "index.js",
+  "scripts": {
+    "test": "exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/spidermanja/demo-packaging.git"
+  },
+  "author": "spidermanja <38@tg.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/spidermanja/demo-packaging/issues"
+  },
+  "homepage": "https://github.com/spidermanja/demo-packaging#readme"
+}
